@@ -1,0 +1,19 @@
+tr{
+	display: flex;
+	justify-content:space-around;
+	font-size: 18px;
+}
+input[type="radio"] {
+	margin-left: 16px;
+}
+button{
+	height: 50px;
+	width: 150px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+	background-color: #6ce725af;
+}
+body{
+    margin: 40px;
+    align-items: center;
+  }
